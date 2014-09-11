@@ -18,8 +18,6 @@
 	</dd>
   
     <dd>
-<script type="text/javascript" src="test.js" 
-    tal:attributes="src string:http://images.315ok.org/ajaxfetchimg.js"></script> 
 <script type="text/javascript" tal:content="structure view/render_marqueejs">
 		</script> 		
     </dd>
